@@ -1,0 +1,10 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "users-csv-to-json": {
+      "script-ref": "UsersCSVtoKeycloakJSON.java",
+      "description": "Script convert from csv file to json for keycloak admin cli"
+    }
+  }
+} 
+
